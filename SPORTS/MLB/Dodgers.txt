@@ -1,1 +1,4 @@
-Initial Dodgers File.
+The Los Angeles Dodgers are a professional baseball team based 
+in Los Angeles, California. The Dodgers are members of the National 
+League West division of Major League Baseball.
+
